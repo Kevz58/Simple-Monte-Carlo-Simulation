@@ -6,10 +6,10 @@ This project demonstrates a Monte Carlo simulation for a single stock, using his
 
 The purpose of this project is to highlight skills in both Management Information Systems (MIS) and Finance, including:
 
-Using historical financial data to estimate expected return (μ) and volatility (σ).
+- Using historical financial data to estimate expected return (μ) and volatility (σ).
 
-Applying Geometric Brownian Motion (GBM) for Monte Carlo simulations.
+- Applying Geometric Brownian Motion (GBM) for Monte Carlo simulations.
 
-Assessing portfolio risk, including probability of loss.
+- Assessing asset risk, including probability of loss.
 
-Visualizing results for clear interpretation.
+- Visualizing results for clear interpretation.
